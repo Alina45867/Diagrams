@@ -1,0 +1,60 @@
+Z:\БИСТ-20-1\Фам Анастасия\Lab4\Lab4\bin\Debug\Lab4.exe.config
+Z:\БИСТ-20-1\Фам Анастасия\Lab4\Lab4\bin\Debug\Lab4.exe
+Z:\БИСТ-20-1\Фам Анастасия\Lab4\Lab4\bin\Debug\Lab4.pdb
+Z:\БИСТ-20-1\Фам Анастасия\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+Z:\БИСТ-20-1\Фам Анастасия\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+Z:\БИСТ-20-1\Фам Анастасия\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+Z:\БИСТ-20-1\Фам Анастасия\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+Z:\БИСТ-20-1\Фам Анастасия\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+Z:\БИСТ-20-1\Фам Анастасия\Lab4\Lab4\obj\Debug\Lab4.exe
+Z:\БИСТ-20-1\Фам Анастасия\Lab4\Lab4\obj\Debug\Lab4.pdb
+F:\Lab4\Lab4\bin\Debug\Lab4.exe.config
+F:\Lab4\Lab4\bin\Debug\Lab4.exe
+F:\Lab4\Lab4\bin\Debug\Lab4.pdb
+F:\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+F:\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+F:\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+F:\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+F:\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+F:\Lab4\Lab4\obj\Debug\Lab4.exe
+F:\Lab4\Lab4\obj\Debug\Lab4.pdb
+E:\Lab4\Lab4\bin\Debug\Lab4.exe.config
+E:\Lab4\Lab4\bin\Debug\Lab4.exe
+E:\Lab4\Lab4\bin\Debug\Lab4.pdb
+E:\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+E:\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+E:\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+E:\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+E:\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+E:\Lab4\Lab4\obj\Debug\Lab4.exe
+E:\Lab4\Lab4\obj\Debug\Lab4.pdb
+F:\ЛАБОРАТОРНЫЕ ПРОГА\Lab4\Lab4\bin\Debug\Lab4.exe.config
+F:\ЛАБОРАТОРНЫЕ ПРОГА\Lab4\Lab4\bin\Debug\Lab4.exe
+F:\ЛАБОРАТОРНЫЕ ПРОГА\Lab4\Lab4\bin\Debug\Lab4.pdb
+F:\ЛАБОРАТОРНЫЕ ПРОГА\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+F:\ЛАБОРАТОРНЫЕ ПРОГА\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+F:\ЛАБОРАТОРНЫЕ ПРОГА\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+F:\ЛАБОРАТОРНЫЕ ПРОГА\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+F:\ЛАБОРАТОРНЫЕ ПРОГА\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+F:\ЛАБОРАТОРНЫЕ ПРОГА\Lab4\Lab4\obj\Debug\Lab4.exe
+F:\ЛАБОРАТОРНЫЕ ПРОГА\Lab4\Lab4\obj\Debug\Lab4.pdb
+E:\ЛАБОРАТОРНЫЕ ПРОГА\Lab4\Lab4\bin\Debug\Lab4.exe.config
+E:\ЛАБОРАТОРНЫЕ ПРОГА\Lab4\Lab4\bin\Debug\Lab4.exe
+E:\ЛАБОРАТОРНЫЕ ПРОГА\Lab4\Lab4\bin\Debug\Lab4.pdb
+E:\ЛАБОРАТОРНЫЕ ПРОГА\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+E:\ЛАБОРАТОРНЫЕ ПРОГА\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+E:\ЛАБОРАТОРНЫЕ ПРОГА\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+E:\ЛАБОРАТОРНЫЕ ПРОГА\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+E:\ЛАБОРАТОРНЫЕ ПРОГА\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+E:\ЛАБОРАТОРНЫЕ ПРОГА\Lab4\Lab4\obj\Debug\Lab4.exe
+E:\ЛАБОРАТОРНЫЕ ПРОГА\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\asus\Downloads\Алине3\BIST_20_1_Fam_AT_LV_4_1\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\asus\Downloads\Алине3\BIST_20_1_Fam_AT_LV_4_1\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\asus\Downloads\Алине3\BIST_20_1_Fam_AT_LV_4_1\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\asus\Downloads\Алине3\BIST_20_1_Fam_AT_LV_4_1\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\asus\Downloads\Алине3\BIST_20_1_Fam_AT_LV_4_1\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\asus\Downloads\Алине3\BIST_20_1_Fam_AT_LV_4_1\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\asus\Downloads\Алине3\BIST_20_1_Fam_AT_LV_4_1\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\Алине3\BIST_20_1_Fam_AT_LV_4_1\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\Алине3\BIST_20_1_Fam_AT_LV_4_1\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\asus\Downloads\Алине3\BIST_20_1_Fam_AT_LV_4_1\Lab4\Lab4\obj\Debug\Lab4.pdb
